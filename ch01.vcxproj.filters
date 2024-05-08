@@ -51,5 +51,8 @@
     <ClCompile Include="..\..\ch02\02linkedList2.c">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="stackArray.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
